@@ -35,7 +35,3 @@ Choose any meeting service with live webcam and voice support. Activate your web
 Set a timer for 25–30 minutes ⌚.
 
 When you **HOST**, listen with respect and an open mind, without judgment. Let your guest(s) share.
-
-## Create an issue 🐛
-
-If you are jobless, that's an **ISSUE**! Please 🙏 create an issue (one per person). Share your **HUMAN** story and save the advertising for LinkedIn.
