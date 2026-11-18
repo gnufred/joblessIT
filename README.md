@@ -28,7 +28,7 @@ Let's build a **decentralized support** network. If you are a **joblessIT** host
 
 ## How to HOST
 
-Choose any meeting service with live webcam and voice support. Activate your webcam and your microphone. Share the invite link with #JoblessIT (and an URL to this repo, probably?).
+Choose any meeting service with live webcam and voice support. Activate your webcam and your microphone. Share the invite link with #JoblessIT on your social network (I guess it's going to be LinkedIn).
 
 Set a 25-30 minutes timer ⌚
 
