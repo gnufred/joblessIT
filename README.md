@@ -26,6 +26,8 @@ This model has the BIGGEST CONTEXT. It has a HUMAN LIFE worth of 📖 knowledge 
 
 Let's build a **decentralized support** network. If you are a **joblessIT** host **ONE** LIVE-WEBCAM and LIVE-VOICE 30 minutes session 🗓️ **A DAY**. Listen with openness and compassion ❤️ and 😄.
 
+We inherited a world built by people we'll never meet. We can make it a little better for the people who come after us, starting with how we show up for each other today. [Is Our World Broken? (Kurzgesagt)](https://www.youtube.com/watch?v=c1nYtX-NUsc)
+
 ## How to HOST
 
 Choose any meeting service with live webcam and voice support. Activate your webcam and your microphone. Share the invite link with #JoblessIT on your social network (I guess it's going to be LinkedIn).
